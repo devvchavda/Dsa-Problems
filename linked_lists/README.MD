@@ -1,0 +1,1 @@
+All codes in this directory are related to linked_lists
